@@ -9,4 +9,8 @@ Obviously these algorithms contain spoilers, so read at your own risk! There may
 * Download [Node.js](https://nodejs.org/en/)
 * In VS Code, hit ` Ctrl+\` ` to bring up the terminal/command prompt.
 * Once you've written your script in Javascript and saved it (e.g. example.js), ensure the terminal/command prompt is in the folder you've saved example.js in, simply type `node example.js`
-* Note that you'll need to `console.log` anything that you want to see in ther terminal/command prompt.
+
+# Notes
+
+* You'll need to `console.log` anything that you want to see in the terminal/command prompt.
+* If you've hit an infinite loop or have a script running indefinitely, hit `Ctrl+C` to interrupt it.
